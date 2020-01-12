@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ff930e7e5caa8fd7e272446435f8b56",
+    "revision": "5d3589091af38ed1c6da9c6bca473d01",
     "url": "/kittenrolodex/index.html"
   },
   {
-    "revision": "5fd468f08516f6463a58",
-    "url": "/kittenrolodex/static/css/main.b7a69bbe.chunk.css"
+    "revision": "9f7cb43803df6969e1bc",
+    "url": "/kittenrolodex/static/css/main.9856eaf2.chunk.css"
   },
   {
     "revision": "20eb7b3612173e07f0b7",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kittenrolodex/static/js/2.4f0a8636.chunk.js.LICENSE"
   },
   {
-    "revision": "5fd468f08516f6463a58",
-    "url": "/kittenrolodex/static/js/main.173a029f.chunk.js"
+    "revision": "9f7cb43803df6969e1bc",
+    "url": "/kittenrolodex/static/js/main.fc49f2c3.chunk.js"
   },
   {
     "revision": "16d2f8fd1d2eb24ad7e1",
