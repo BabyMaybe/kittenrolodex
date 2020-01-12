@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kittenrolodex/static/css/main.b7a69bbe.chunk.css",
+    "main.js": "/kittenrolodex/static/js/main.173a029f.chunk.js",
+    "main.js.map": "/kittenrolodex/static/js/main.173a029f.chunk.js.map",
+    "runtime-main.js": "/kittenrolodex/static/js/runtime-main.0e6ad252.js",
+    "runtime-main.js.map": "/kittenrolodex/static/js/runtime-main.0e6ad252.js.map",
+    "static/js/2.4f0a8636.chunk.js": "/kittenrolodex/static/js/2.4f0a8636.chunk.js",
+    "static/js/2.4f0a8636.chunk.js.map": "/kittenrolodex/static/js/2.4f0a8636.chunk.js.map",
+    "index.html": "/kittenrolodex/index.html",
+    "precache-manifest.3a3dc8ce957fd0549e3f1ec012f8e193.js": "/kittenrolodex/precache-manifest.3a3dc8ce957fd0549e3f1ec012f8e193.js",
+    "service-worker.js": "/kittenrolodex/service-worker.js",
+    "static/css/main.b7a69bbe.chunk.css.map": "/kittenrolodex/static/css/main.b7a69bbe.chunk.css.map",
+    "static/js/2.4f0a8636.chunk.js.LICENSE": "/kittenrolodex/static/js/2.4f0a8636.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e6ad252.js",
+    "static/js/2.4f0a8636.chunk.js",
+    "static/css/main.b7a69bbe.chunk.css",
+    "static/js/main.173a029f.chunk.js"
+  ]
+}
